@@ -29,3 +29,5 @@ https://docs.cypress.io/guides
 
 These are not all tests required to complete test this application.
 There are only 5 test cases as a Cypress usage example.
+
+![test results](static/tests_result.png)
