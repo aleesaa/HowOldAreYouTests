@@ -1,0 +1,14 @@
+{
+  "name": "howoldareyoutests",
+  "version": "0.0.1",
+  "description": "This is an example spec in Cypress to test the \"How old are you\" application",
+  "main": "index.js",
+  "scripts": {
+    "open": "./node_modules/.bin/cypress open"
+  },
+  "author": "aleesaa",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.1.0"
+  }
+}
